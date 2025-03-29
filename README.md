@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A700&width=550&lines=🚀+Full-Stack+Web+Developer;💻+MERN+Stack+Specialist;🤖+AI/ML+Enthusiast;🔥+Building+Innovative+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A700&width=550&lines=🚀+Full-Stack+Web+Developer;🤖+AI/ML+Enthusiast;🔥+Building+Innovative+Projects">
 </p>
 
 <p align="center">
