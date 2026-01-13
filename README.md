@@ -65,14 +65,17 @@
 ---
 
 ## 📊 GitHub Performance
+## 📊 GitHub Performance
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/vishalkhemnar06/vishalkhemnar06&show_icons=true&theme=tokyonight&border_radius=10" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/vishalkhemnar06/vishalkhemnar06&layout=compact&theme=tokyonight&border_radius=10" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalKhemnar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKhemnar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/vishalkhemnar06/vishalkhemnar06&theme=tokyonight&border_radius=10">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalKhemnar&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
