@@ -1,64 +1,77 @@
-<h1 align="center">Hi 👋, I'm Vishal Khemnar</h1>
+<h1 align="center">👋 Hi, I'm Vishal Khemnar</h1>
 <h3 align="center">Aspiring AI & Machine Learning Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Data+Science+%7C+Deep+Learning;Building+Intelligent+Systems;Learning+Every+Day&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+Agentic+AI;Python+%7C+Data+Science+%7C+Deep+Learning;Building+Intelligent+AI+Systems;Always+Learning+%7C+Always+Building&center=true&width=700&height=45">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/VishalKhemnar?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/VishalKhemnar?label=Stars&style=social">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 - 🎓 Engineering student passionate about **Artificial Intelligence & Machine Learning**
-- 🤖 Hands-on experience with **ML models, NLP, Computer Vision & Predictive Systems**
-- 🧠 Strong foundation in **Python, Data Science & Algorithmic Thinking**
-- 🏆 Semi-Finalist at **Code Unnati National Innovation Marathon**
-- 🌱 Constantly learning and building real-world AI solutions
+- 🤖 Hands-on experience with **ML, Deep Learning, NLP, Computer Vision**
+- 🧬 Actively exploring **Generative AI & Agentic AI systems**
+- 🏆 **Semi-Finalist – Code Unnati National Innovation Marathon (AI Project)**
+- 🌱 Focused on building **real-world, data-driven, intelligent solutions**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 👨‍💻 Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
+</p>
 
-### 🤖 AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+### 🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge">
+</p>
 
-### 🌐 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+### 🧠 Advanced AI
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Agentic%20AI-4B0082?style=for-the-badge">
+</p>
 
----
-
-## 📌 Featured Projects
-- 🎬 **Movie Recommendation System** – Content-based ML system using cosine similarity  
-- 📩 **SMS Spam Detection** – NLP-based ML classification model  
-- 🚗 **Car Price Prediction** – Regression-based predictive system  
-- 🏥 **AI Doctor Assistant** – ML-powered health assistant with web interaction  
-
-👉 *Check my repositories for complete code & documentation.*
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
+</p>
 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 **Semi-Finalist – Code Unnati National Innovation Marathon (AI Project)**
-- 📜 **Advanced Course on Emerging Technologies (SAP Code Unnati)**
+- 🥇 **Semi-Finalist – Code Unnati National Innovation Marathon (National Level)**
+- 📜 **Advanced Course on Emerging Technologies – SAP Code Unnati**
 - 📜 **Data Science & Machine Learning Internship – Upskill Campus**
+- 🧠 Built AI projects including **Recommendation Systems, NLP Models, Predictive Systems & AI Assistants**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalKhemnar&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKhemnar&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalKhemnar&show_icons=true&theme=tokyonight&border_radius=10" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKhemnar&layout=compact&theme=tokyonight&border_radius=10" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalKhemnar&theme=tokyonight&border_radius=10">
 </p>
 
 ---
@@ -75,4 +88,6 @@
 
 ---
 
-⭐ *“Building intelligent systems that turn data into decisions.”*
+<p align="center">
+  <i>“Turning data into intelligence, and intelligence into impact.”</i>
+</p>
