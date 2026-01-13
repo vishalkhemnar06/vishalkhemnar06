@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/VishalKhemnar06?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/VishalKhemnar06?label=Stars&style=social">
+  <img src="https://img.shields.io/github/followers/https://github.com/vishalkhemnar06/vishalkhemnar06?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/https://github.com/vishalkhemnar06/vishalkhemnar06?label=Stars&style=social">
 </p>
 
 ---
@@ -66,12 +66,12 @@
 
 ## 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalKhemnar06&show_icons=true&theme=tokyonight&border_radius=10" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKhemnar06&layout=compact&theme=tokyonight&border_radius=10" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/vishalkhemnar06/vishalkhemnar06&show_icons=true&theme=tokyonight&border_radius=10" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/vishalkhemnar06/vishalkhemnar06&layout=compact&theme=tokyonight&border_radius=10" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalKhemnar06&theme=tokyonight&border_radius=10">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/vishalkhemnar06/vishalkhemnar06&theme=tokyonight&border_radius=10">
 </p>
 
 ---
