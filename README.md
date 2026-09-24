@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer working across **React.js, Redux Toolkit, FastAPI, MySQL & MongoDB**
+- 💻 Full Stack Developer working across **React.js, Redux Toolkit, Python, Django, Django Rest API, MySQL**
 - 🎓 Pursuing **B.E. in Information Technology** at Savitribai Phule Pune University *(2022 – 2026)*
 - 🌐 I enjoy building responsive front-ends and clean, well-structured REST APIs
-- ⚡ Exploring **AI-assisted development** with tools like Claude Code & Codex
+- ⚡ Exploring **AI-assisted development** with tools like Claude Code & Github Copilot
 - 🏆 Semi-Finalist — Code Unnati National Innovation Marathon
 - 🌱 Always learning, always shipping
 
